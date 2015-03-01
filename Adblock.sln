@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adblock", "Adblock\Adblock.csproj", "{56056901-4532-4C0B-8ED2-A2C40DD482A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Adblock Installer", "Adblock Installer\Adblock Installer.vdproj", "{C12ED14D-5B06-471A-997C-D6941ABC1F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adblock Unit Tests", "Adblock Unit Tests\Adblock Unit Tests.csproj", "{77183AE7-C597-4BE6-A507-333FD40B3DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfTest", "PerfTest\PerfTest.csproj", "{7B506B9C-8001-4BBB-82BB-09912EB8343A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56056901-4532-4C0B-8ED2-A2C40DD482A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56056901-4532-4C0B-8ED2-A2C40DD482A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56056901-4532-4C0B-8ED2-A2C40DD482A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56056901-4532-4C0B-8ED2-A2C40DD482A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12ED14D-5B06-471A-997C-D6941ABC1F59}.Debug|Any CPU.ActiveCfg = Debug
+		{C12ED14D-5B06-471A-997C-D6941ABC1F59}.Release|Any CPU.ActiveCfg = Release
+		{77183AE7-C597-4BE6-A507-333FD40B3DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77183AE7-C597-4BE6-A507-333FD40B3DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77183AE7-C597-4BE6-A507-333FD40B3DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77183AE7-C597-4BE6-A507-333FD40B3DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B506B9C-8001-4BBB-82BB-09912EB8343A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B506B9C-8001-4BBB-82BB-09912EB8343A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B506B9C-8001-4BBB-82BB-09912EB8343A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B506B9C-8001-4BBB-82BB-09912EB8343A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
